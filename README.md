@@ -1,5 +1,9 @@
 # War-Card-Game-Java-
 
+Language used: Java
+
+This program is created with NetBeans enviroment.
+
 War is a card game for two players.
 A standard deck of 52 cards is dealt so that both players have 26 cards.
 During each round of play (or "battle"), both players play a card from the top of their hand face up.
